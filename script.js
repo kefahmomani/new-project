@@ -1,4 +1,4 @@
-function sum()
+ function sum()
 {
   var num1=prompt('enter the first num');
   var num2=prompt('enter secund');
@@ -8,6 +8,7 @@ alert(z);
 sum ();
  
  var kefaName = prompt('Hello and welcome, please enter your name again !');
+ 
 
 // validator 
 // i will use the and
