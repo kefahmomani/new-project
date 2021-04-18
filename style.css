@@ -1,0 +1,68 @@
+header {
+  color: red;
+  text-align: center;
+  padding: 5px;
+  text-align: center;
+  background:
+  opacity:10;
+  color: white;
+  font-size: 30px;
+  font-family: "Lucida Console", "Courier New", monospace;
+  
+  
+
+}
+body {
+
+  color: whitesmoke;
+
+  background-image: url(https://wallpapercave.com/wp/uIcaxSC.jpg);
+  background-repeat: no-repeat;
+  background-position: center; 
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
+div{
+  color:chartreuse;
+  text-align: center;
+  font-size: 30px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+a{
+  color:orange;
+}
+
+
+
+p1{
+  color:blanchedalmond;
+    
+     
+
+}
+
+p2{
+  color:blanchedalmond;
+  text-align: left;
+}
+p3{
+  color:blanchedalmond;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer{
+  background-color:olivedrab;
+
+}
+main article{
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center; 
+  font-size: 20px;
+  color: rgb(202, 231, 71);
+}
