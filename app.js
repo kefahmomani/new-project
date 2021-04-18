@@ -1,4 +1,4 @@
-function sum()
+ function sum()
 {
   var num1=prompt('enter the first num');
   var num2=prompt('enter secund');
